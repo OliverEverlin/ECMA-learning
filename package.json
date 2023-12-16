@@ -1,0 +1,16 @@
+{
+  "name": "curso-ecma-script",
+  "version": "1.0.0",
+  "description": "Notas del curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Oliver Rojas",
+  "license": "MIT",
+  "type": "module"
+}
