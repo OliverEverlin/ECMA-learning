@@ -12,5 +12,8 @@
   ],
   "author": "Oliver Rojas",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
